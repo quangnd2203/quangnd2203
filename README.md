@@ -9,6 +9,7 @@
 With over 6 years of experience, I specialize in building high-quality products, with a deep focus on Flutter & Native iOS. I view technology as a tool to solve end-to-end problems, not just a single stack.
 
 🛠 Technical Highlights:
+
 Advanced Mobile: Native integrations (Method Channel), Image processing/AI (ARKit, Vision), and deep Performance Optimization (Xcode Instruments, DevTools).
 
 Full-stack Mindset: Strong fundamentals in Backend, AWS, Docker, and CI/CD pipelines to ensure seamless delivery.
