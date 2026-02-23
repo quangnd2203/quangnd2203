@@ -23,12 +23,6 @@ I don't just write code; I architect end-to-end solutions. My approach bridges t
 
 ---
 
-### 📊 GitHub Stats & Impact
-![Quang's GitHub stats](https://github-readme-stats.vercel.app/api?username=quangnd2203&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quangnd2203&layout=compact&theme=tokyonight)
-
----
-
 ### 📞 Let's Build Something Great
 - 🌐 [quangit.dev](https://quangit.dev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/quang-nguyen-b248aa21a)
